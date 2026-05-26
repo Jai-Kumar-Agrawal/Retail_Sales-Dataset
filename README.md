@@ -120,13 +120,11 @@ Users can dynamically filter dashboard data by:
 
 > Transforming raw sales data into actionable business intelligence through interactive analytics and visualization.
 
-Add your dashboard screenshot below:
+### Dashboard 1
+![Retail Sales Dashboard 1](Retail_Sales.png)
 
-![Retail Sales Dashboard]
-(Retail_Sales.png)
-
-
-(Retail_Sales2.png)
+### Dashboard 2
+![Retail Sales Dashboard 2](Retail_Sales2.png)
 
 
 
